@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tageszeiten">
+    <output-path>F:/Minecraft server/plugins</output-path>
+    <root id="archive" name="Tageszeiten.jar">
+      <element id="module-output" name="Tageszeiten" />
+    </root>
+  </artifact>
+</component>

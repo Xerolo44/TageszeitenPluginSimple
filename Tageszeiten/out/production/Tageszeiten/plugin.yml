@@ -1,0 +1,8 @@
+main: xero.tageszeiten.main.Main
+name: Tageszeiten
+version: 0.1.0
+description: wuenscht dir nen guten morgen,mittag,abend
+author: Xerolo44
+commands:
+  guten:
+    description: Wuescht dir nen guten morgen,mittag,abend
